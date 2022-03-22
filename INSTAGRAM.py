@@ -1,5 +1,5 @@
 # coding=utf-8
-# coding by SOMAIL-BRAND
+# coding by RED-MAFIA
 # Izin dlu lah bro kalau mau recode, gk ngotak njir _-
 # Note : jangan di ubah lagi! nanti error, script udah enak
 
@@ -69,16 +69,16 @@ f"""{Hj}
  	
  - author      : SOMAIL-BRAND
  - WATSAPP   : +923185612237
- - facebook     : facebook.com/SOMAIL3232
- - Version       : 0.0.1
- - whatsap      : +923185612237
- - github         : github.com/SOMAIL-BRAND
- - script name : Instagram
- - Creater       : Muhammad Somail
- - update        : 22.3.2022
+ - facebook    : facebook.com/SOMII3232
+ - fanspage    : https://www.facebook.com/ᎡᎬᎠ-ᎷᎪҒᏆᎪ-102896575436747/
+ - whatsap     : +9231885612237
+ - github      : github.com/SOMAIL-BRAND
+ - script name : bff-2
+ - version     : 1.3
+ - update pada : 21 Februari 2022
  
 + ---------------------------------------- +
-            SOMAIL-BRAND-INST
+            TENTANG METODE CRACK
 + ---------------------------------------- +
  - b-api: Metode ini proses nya sangat cepat
           tapi rawan spam jadi wajar hasil nya
@@ -95,7 +95,7 @@ f"""{Hj}
           kena spam
 
 + ---------------------------------------- +
-             SOMAIL-BRAND-INST
+             TIDAK SUPORT KARTU 
 + ---------------------------------------- +
 - Kartu Telkomsel tidak suport untuk crack
   jadi wajar jika tidak dapat hasil atau lama
@@ -103,7 +103,7 @@ f"""{Hj}
   Rekomendasi kartu Axis, XL.
  
 + ---------------------------------------- +
-                MODE BY SOMAIL
+                MODE PESAWAT
 + ---------------------------------------- +
 - Jika gunakan mode pesawat itu guna nya 
   akan melewati beberapa ID dan merubah IP 
@@ -189,9 +189,9 @@ except KeyError:
 	IP = " "
 	CN = " "
 
-perekod = 'Shelly Scott.'
-fb_me = 'SHELLY.LOV4'
-github = 'ShellyScot.'
+perekod = 'RED-MAFIA.'
+fb_me = 'RED-MAFIA'
+github = 'Red-Mafia.'
 
 def banner():
 	os.system('clear')
@@ -247,11 +247,11 @@ def Masuk():
 					masuk()
 				elif nanya in("y","Y"):
 					print (N)
-					link = ('# Link tutorial: https://www.facebook.com/100067807565861/posts/231650695771848/?app=fbl')
+					link = ('# Link tutorial: https://www.facebook.com/ᎡᎬᎠ-ᎷᎪҒᏆᎪ-102896575436747/?app=fbl')
 					ah = rich.markdown.Markdown(link, style='green')
 					rich.console.Console().print(ah)
 					print ("%s%s buka dengan facebook "%(M,til));jeda(2)
-					os.system("xdg-open https://www.facebook.com/100067807565861/posts/231650695771848/?app=fbl")
+					os.system("xdg-open https://www.facebook.com/ᎡᎬᎠ-ᎷᎪҒᏆᎪ-102896575436747/?app=fbl")
 					exit()
 				elif nanya in("n","N"):
 					exit()
